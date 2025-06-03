@@ -1,0 +1,2 @@
+We are learning git
+this is the second file
